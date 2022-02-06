@@ -20,7 +20,7 @@ For this process we follow this steps:
 
 Then we use the SKLearn Principal Component Analysis (PCA) algorithm, in order to reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame (PC 1, PC 2 and PC 3).
 
-<img src="https://github.com/Jponce25/Cryptocurrencies/blob/fa501ece8144b10b95295a9f89557f7305c5840d/Image/Imagen1.png" width="700">
+<img src="https://github.com/Jponce25/Cryptocurrencies/blob/fa501ece8144b10b95295a9f89557f7305c5840d/Image/Imagen1.png" width="250">
 
 ## Elbow Curve and K-means Algorithm
 
@@ -42,7 +42,7 @@ Then we create a table with all the currently tradable cryptocurrencies using th
 
 Finally, we make a scatter with the information that we consider to be relevant (TotalCoinSupply and TotalCoinsMined), maintaining the classification that we made with the K means model.
 
-<img src="https://github.com/Jponce25/Cryptocurrencies/blob/fa501ece8144b10b95295a9f89557f7305c5840d/Image/Imagen6.png" width="700">
+<img src="https://github.com/Jponce25/Cryptocurrencies/blob/fa501ece8144b10b95295a9f89557f7305c5840d/Image/Imagen6.png" width="400">
 
 <img src="https://github.com/Jponce25/Cryptocurrencies/blob/fa501ece8144b10b95295a9f89557f7305c5840d/Image/Imagen7.png" width="700">
 
